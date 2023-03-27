@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_2_server</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <BaseOutputPath>D:\Visual_Studio_progs\BK_studio\2\Server\2_server</BaseOutputPath>
+    <BaseIntermediateOutputPath>D:\Visual_Studio_progs\BK_studio\2\Server\2_server</BaseIntermediateOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="ServerObject.cs" />
+  </ItemGroup>
+
+</Project>
